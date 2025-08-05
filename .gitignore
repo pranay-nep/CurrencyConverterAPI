@@ -1,0 +1,13 @@
+# Ignore compiled class files
+*.class
+
+# Ignore any build folders
+bin/
+out/
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Prevents my config file from being uploaded
+config.properties
